@@ -1,0 +1,9 @@
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\bin\Debug\Clase4.exe.config
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\bin\Debug\Clase4.exe
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\bin\Debug\Clase4.pdb
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\obj\Debug\Clase4.csprojResolveAssemblyReference.cache
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\obj\Debug\Clase4.Form1.resources
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\obj\Debug\Clase4.Properties.Resources.resources
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\obj\Debug\Clase4.csproj.GenerateResource.Cache
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\obj\Debug\Clase4.exe
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase4\Clase4\obj\Debug\Clase4.pdb
